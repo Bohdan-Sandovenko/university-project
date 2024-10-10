@@ -1,0 +1,35 @@
+@import 'nullstyles.css';
+body {
+  display: flex;
+  flex-direction: column;
+}
+body .head {
+  background-image: url(./img/autumn.jpg);
+  height: 318.5px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0 50px 0px;
+}
+body .head h1 {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2.5em;
+  color: #EB6E4B;
+  text-shadow: 2px 2px 2px black;
+}
+body .search {
+  text-align: center;
+}
+body .search button {
+  padding: 15px;
+}
+body main {
+  flex: 1;
+  height: 900px;
+  width: 662px;
+}/*# sourceMappingURL=style_20241009185932.css.map */

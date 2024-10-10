@@ -1,0 +1,17 @@
+@import 'nullstyles.css';
+
+body {
+    .head {
+        background-image: url(./img/autumn.jpg);
+        height: 318.5px;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+
+        h1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+h1{
+    color: #e24212;
+}
+.head{
+    background-image: url(./img/);
+}
+body{
+    flex-direction:column;
+}
+main{
+    text-align: center;
+    justify-content: center;
+}
+.footer{
+    background-color: #48484a;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+footer span{
+
+}

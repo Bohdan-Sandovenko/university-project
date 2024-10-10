@@ -1,0 +1,12 @@
+@import 'nullstyles.css';
+body .head {
+  background-image: url(./img/autumn.jpg);
+  height: 318.5px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+body .head h1 {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style_20241009183219.css.map */

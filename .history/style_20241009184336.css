@@ -1,0 +1,19 @@
+@import 'nullstyles.css';
+body .head {
+  background-image: url(./img/autumn.jpg);
+  height: 318.5px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .head h1 {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2.5em;
+  color: #EB6E4B;
+  text-shadow: 2px 2px 2px black;
+}/*# sourceMappingURL=style_20241009184336.css.map */
